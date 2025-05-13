@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kinjo23-cloud
-- 👀 I’m binance algo developer and trader with 6 5 years of experience
+- 👀 I’m binance algo developer and trader with  5 years of experience
 - 🌱 my trading strategy is always trend based
 - 💞️ I’m looking to collaborate on ...
 - 📫 i have profitable trend base bots for sale. 30 days free backtesting
